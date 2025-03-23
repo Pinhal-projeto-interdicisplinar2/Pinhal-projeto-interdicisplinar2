@@ -60,11 +60,11 @@ a. Processo de software (Scrum, XP, Kanban, etc.)
    Utilizamos a metodologia Scrum, com Sprints de 2 semanas para desenvolvimento incremental.
 
 b. Recursos utilizados (tecnologias, ferramentas de apoio, linguagem de programação, equipamentos, rede)  
-   - *Frontend*: React
-   - *Backend*: Node.js, Express
-   - *Banco de Dados*: MongoDB
+   - *Frontend*: HTML, CSS, BOOTSTRAP
+   - *Backend*: JavaScript e PhP
+   - *Banco de Dados*: Workbeach
    - *Ferramentas de design*: Figma, Quant-UX
-   - *Outras ferramentas*: GitHub (controle de versão), Slack (comunicação da equipe).
+   - *Outras ferramentas*: GitHub (controle de versão)
 
 c. Resultados esperados  
    - Lançamento da plataforma MVP.
